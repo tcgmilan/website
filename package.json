@@ -1,6 +1,6 @@
 {
   "name": "tcgmilan-website",
-  "homepage": "https://tcgmilan.github.io",
+  "homepage": "https://tcgmilan.github.io/website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
