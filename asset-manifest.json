@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/website/static/js/main.c9edd934.chunk.js",
+    "main.js.map": "/website/static/js/main.c9edd934.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.e054e826.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.e054e826.js.map",
+    "static/css/2.679831fc.chunk.css": "/website/static/css/2.679831fc.chunk.css",
+    "static/js/2.ac7f0666.chunk.js": "/website/static/js/2.ac7f0666.chunk.js",
+    "static/js/2.ac7f0666.chunk.js.map": "/website/static/js/2.ac7f0666.chunk.js.map",
+    "index.html": "/website/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/website/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.ac7f0666.chunk.js.LICENSE.txt": "/website/static/js/2.ac7f0666.chunk.js.LICENSE.txt",
+    "static/media/profile-img.5179e446.png": "/website/static/media/profile-img.5179e446.png",
+    "static/media/spaceman.5ec7fcfa.png": "/website/static/media/spaceman.5ec7fcfa.png",
+    "static/media/u-said-it-v13-1167.949cee7e.mp3": "/website/static/media/u-said-it-v13-1167.949cee7e.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e054e826.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.ac7f0666.chunk.js",
+    "static/js/main.c9edd934.chunk.js"
+  ]
+}
