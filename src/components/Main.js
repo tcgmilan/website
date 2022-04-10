@@ -180,7 +180,8 @@ const Main = () => {
                     Események.
                 </motion.h2>
             </BLOG>
-            <WORK to="/work" click={+click}>
+            
+            <WORK to="/projects" click={+click}>
                 <motion.h2
                 initial={{
                     y:-200,
@@ -188,12 +189,13 @@ const Main = () => {
                 }}
                 animate={{
                     y:0,
+                    x:30,
                     transition: { type:'spring', duration: 1.5, delay:1}
                 }}
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    Munkáim.
+                    Projektjeim.
                 </motion.h2>
             </WORK>
             <BottomBar>
