@@ -155,6 +155,7 @@ const Main = () => {
                 }}
                 animate={{
                     y:0,
+                    x:20,
                     transition: { type:'spring', duration: 1.5, delay:1}
                 }}
                 whileHover={{scale: 1.1}}
